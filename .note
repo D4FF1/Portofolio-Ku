@@ -1,0 +1,19 @@
+
+<!-- <span>Software Developer, UI/UX, FrontEnd, BeckEnd</span> -->
+
+    // const roles = [
+    //     "Software Developer",
+    //     "UI/UX",
+    //     "FrontEnd",
+    //     "BeckEnd"
+    // ];
+    // const typewriterSpan = document.querySelector('.typewriter span');
+    // let roleIndex = 0;
+
+    // function changeRole() {
+    //     typewriterSpan.textContent = roles[roleIndex];
+    //     roleIndex = (roleIndex + 1) % roles.length;
+    // }
+
+    // setInterval(changeRole, 3000);
+    // changeRole();
